@@ -1,0 +1,20 @@
+# TensorFlow
+tensorflow==2.8.0
+
+# Scipy
+scipy==1.7.3
+
+# Keras
+keras==2.8.0
+
+# Pandas
+pandas==1.4.0
+
+# Matplotlib
+matplotlib==3.5.1
+
+# NumPy
+numpy==1.22.0
+
+# Additional Libraries
+csv==1.0
